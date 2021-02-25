@@ -1,0 +1,1 @@
+To use the course theme, paste the glass-eye-creative folder into your 'wp-content/themes/' folder and activate it
